@@ -12,7 +12,7 @@ TEST_FIXTURES = {
     },
     "ethereum_tests": {
         "url": "https://github.com/ethereum/tests.git",
-        "commit_hash": "0ec53d0",
+        "commit_hash": "af904b8",
         "fixture_path": "tests/fixtures/ethereum_tests",
     },
 }
